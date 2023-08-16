@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testclasses><computacenterfacades><testclass>de.hybris.computacenter.facades.suggestion.impl.DefaultSimpleSuggestionFacadeTest</testclass><testclass>de.hybris.computacenter.facades.suggestion.DefaultSimpleSuggestionFacadeIntegrationTest</testclass></computacenterfacades></testclasses>
